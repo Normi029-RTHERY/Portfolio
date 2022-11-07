@@ -92,7 +92,7 @@ body{
     width: 3vw;
     min-width: 50px;
     border-radius: 70%;
-    position: fixed;
+    position: absolute;
     top: 5vh; 
     right: 5vw; 
     background-image: radial-gradient(#000000, #000000);

@@ -520,14 +520,13 @@ opacity: 1;
 
 .holotexte{
   display: flex;
-  
+  width: 90vw;
    
 }
 
 .vi{
   position: relative;
   margin-top: 3%;
-  max-width: 100%;
 
 }
 
@@ -536,9 +535,8 @@ opacity: 1;
   color: aliceblue;
   font-family: "NotoSansJP-regular";
   margin-top: 100px;
-  min-width: 360px;
-  font-size: 1vw;
-  position: relative;
+  font-size: 2vw;
+  position: flex;
         
 }
 

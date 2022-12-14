@@ -728,7 +728,47 @@ padding-top: 18vh;
 	
 }
 .box-04 .inner {
-	background-image: url('./assets/vanité.png');
+	background-image: url('./assets/erranceprojet.png');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
+}
+
+
+.errance{
+  width: 100%;
+  display: block;
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: end;
+  font-size: 0.8vw;
+  animation: fadeInAnimation ease 2.5s; 
+  animation-fill-mode: forwards; 
+  animation-iteration-count: 1; 
+  } 
+  @keyframes fadeInAnimation { 
+  0% { 
+  opacity: 0; 
+  } 
+  100% { 
+  opacity: 1; 
+  }
+}
+
+.errancea{
+  width: 100%;
+}
+
+.txterrance{
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1vw;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+}
+
+.croquis{
+  display: flex;
+  width: 71%;
 }
